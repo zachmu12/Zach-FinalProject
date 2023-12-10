@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #007bff, #ff7f50);
+    body {
+        font-family: Arial, sans-serif;   
+        background-color: #f2f2f2;
+
+    }
+
+    h1 {
+        color: #0e61b5bd; 
+        text-decoration: underline; 
+    } 
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    border: 5px solid darkorange; /* I added a thick border with dark orange color. */
+    padding: 20px; 
+}
+
+h1 {
+    color: #0e61b5bd;
+    text-decoration: underline;
+}
